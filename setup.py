@@ -14,7 +14,7 @@ setup(
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Emanuelbrit96/simple-package-template"
+    url="https://github.com/Emanuelbrit96/Pacotes_Python"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
