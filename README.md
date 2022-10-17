@@ -1,16 +1,17 @@
-# package_name
+# reajuste
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package reajuste is used to:
+	Reajuste
+		- Calculo_reajuste
+		- Formatacao
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install package_name
+pip install reajuste
 ```
 
 ## Usage
@@ -21,7 +22,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Emaneul Brito
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
